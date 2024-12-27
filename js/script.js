@@ -7,6 +7,7 @@ import { emailExamples } from "./modules/data.js";
     return emailRegex.test(email);
 }*/
 //console.log("test");
+
 //dom elements
 const form=document.getElementById('emailForm');
 const emailInput=document.getElementById('emailInput');
